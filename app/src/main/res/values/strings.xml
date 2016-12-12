@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto_Momo</string>
+    <string name="bnew">Nuevo</string>
+    <string name="bopen">Abrir</string>
+    <string name="bshare">Compartir</string>
+    <string name="dis">Dispositivo</string>
+    <string name="sd">SD</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_draw">DrawActivity</string>
+</resources>
